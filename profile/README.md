@@ -5,7 +5,7 @@ We are a community of tech enthusiasts striving to bring back modern software co
 
 - [5g](https://github.com/spwizimg-dll) - Founder and main developer
 
-- [Rpse1440](https://github.com/RocketLauncher21) - Founder and main developer
+- [Rpse1440](https://github.com/RocketLauncher21) - Owner and main developer
 
 
 <h3 align="center">Developer team</h3>
