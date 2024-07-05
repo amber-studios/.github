@@ -9,7 +9,8 @@ We are a community of tech enthusiasts striving to bring back modern software co
 
 
 <h3 align="center">Developer team</h3>
-- [Everytab](https://github.com/Everytab) abd [Igor MGTOW](https://github.com/realzvqle) - LantherXP development team
+
+- [Everytab](https://github.com/Everytab) and [Igor MGTOW](https://github.com/realzvqle) - LantherXP development team
 
 - [zvqle](https://github.com/realzvqle) - Luminafox developer
 
