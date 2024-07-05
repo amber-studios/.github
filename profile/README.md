@@ -3,12 +3,13 @@ We are a community of tech enthusiasts striving to bring back modern software co
 
 <h3 align="center">Core team</h3>
 
-- [5g](https://github.com/spwizimg-dll) - Founder and main developer
+- [5g](https://github.com/spwizimg-dll) - Founder and lead developer
 
-- [Rose1440](https://github.com/RocketLauncher21) - Owner and main developer
+- [Rose1440](https://github.com/RocketLauncher21) - Owner and lead developer
 
 
 <h3 align="center">Developer team</h3>
+- [Everytab](https://github.com/Everytab) abd [Igor MGTOW](https://github.com/realzvqle) - LantherXP development team
 
 - [zvqle](https://github.com/realzvqle) - Luminafox developer
 
