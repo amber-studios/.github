@@ -3,7 +3,7 @@ We are a community of tech enthusiasts striving to bring back modern software co
 
 <h3 align="center">Core team</h3>
 
-- [5g](https://github.com/spwizimg-dll) - Founder and lead developer
+- [Luna Nakaya](https://github.com/lunanakaya) - Founder and lead developer
 
 - [Rose1440](https://github.com/RocketLauncher21) - Owner and lead developer
 
